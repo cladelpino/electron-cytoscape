@@ -1,18 +1,27 @@
 {
   "name": "metascriptgp",
   "version": "1.0.0",
-  "description": "",
+  "description": "electron-cytoscape",
   "main": "index.js",
   "dependencies": {
     "cytoscape": "^3.15.1",
     "uuid": "^8.2.0"
   },
   "devDependencies": {
-    "electron": "^9.1.0"
+    "electron": "^17.1.0"
   },
   "scripts": {
     "start": "electron ."
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cladelpino/electron-cytoscape.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/cladelpino/electron-cytoscape/issues"
+  },
+  "homepage": "https://github.com/cladelpino/electron-cytoscape#readme"
 }
